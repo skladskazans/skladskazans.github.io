@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 0.5
+Sitemap: http://склад-казань.рус/sitemap.xml
+Host: https://склад-казань.рус
